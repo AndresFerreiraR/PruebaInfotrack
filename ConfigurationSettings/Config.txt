@@ -1,0 +1,17 @@
+Data Source=FERREIRAPC\COLOMBIATIC;User ID=Siust;Password=********;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
+
+
+
+FERREIRAPC\COLOMBIATIC;initial catalog=PruebaTecnica;user id=sa;password=PruebaTecnica*2019;
+
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer.Design
+
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+Scaffold-DbContext "Data Source=COBODES789\SQLEXPRESS;initial catalog=INFOTRACK;user id=sa;password=PruebaTecnica*2019;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir "Models" -context "ModelContext"
+
+
+COBODES789\SQLEXPRESS

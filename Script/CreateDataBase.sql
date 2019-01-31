@@ -1,0 +1,51 @@
+CREATE DATABASE INFOTRACK
+GO
+
+CREATE SCHEMA [STD]
+GO
+
+CREATE SCHEMA [NT]
+GO
+
+CREATE SCHEMA [ACMY]
+GO
+
+USE [INFOTRACK]
+GO
+CREATE TABLE [STD].[Alumno]
+(
+IdAlumno INT IDENTITY,
+Nombres VARCHAR(50),
+Apellidos VARCHAR(50),
+Identificacion VARCHAR(18) UNIQUE,
+Telefono VARCHAR(18),
+Correo VARCHAR(20),
+CONSTRAINT PK_IdAlumno PRIMARY KEY (IdAlumno)
+)
+GO
+USE [INFOTRACK]
+GO
+CREATE TABLE [ACMY].[Materia]
+(
+IdMateria INT IDENTITY,
+Nombres VARCHAR(50),
+Descripcion VARCHAR(50),
+Docente VARCHAR(18),
+Codigo VARCHAR(10),
+CONSTRAINT PK_IdMateria PRIMARY KEY (IdMateria)
+)
+GO
+USE [INFOTRACK]
+GO
+CREATE TABLE [NT].[Notas]
+(
+IdNota INT IDENTITY,
+IdEstudiante INT,
+IdMateria INT,
+Descripcion VARCHAR(150),
+Nota DECIMAL(5,3),
+CONSTRAINT PK_IdEstudent PRIMARY KEY (IdMateria),
+CONSTRAINT FK_IdEstudent_Nota FOREIGN KEY (IdEstudiante) REFERENCES [STD].[Alumno] (IdAlumno),
+CONSTRAINT FK_IdMateria_Nota FOREIGN KEY (IdMateria) REFERENCES [ACMY].[Materia] (IdMateria)
+)
+
