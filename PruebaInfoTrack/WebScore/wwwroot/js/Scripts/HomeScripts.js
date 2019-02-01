@@ -16,8 +16,8 @@ class HomeScripts {
                 for (var i = 0; i < JSONRespuesta.length; i++) {
                     Students_List = Students_List +
                         '<tr>' +
-                        '<td nowrap data-column-id="Check" value="' + JSONRespuesta[i].IdAlumno + '</td>' +
-                        '<td nowrap data-column-id="studentName" value="' + JSONRespuesta[i].Nombres + '</td>' +
+                        '<td nowrap data-column-id="Check" value="' + JSONRespuesta[i].IdAlumno + '"> <input type="checkbox" id="chkAlumno"'+i+'"/></td>' +
+                        '<td nowrap data-column-id="studentName">'+ JSONRespuesta[i].Nombres + '</td>' +
                         '<td nowrap data-column-id="studentSurname">' + JSONRespuesta[i].Apellidos + '</td>' +
                         '<td nowrap data-column-id="studentNIT" class="Nombre">' + JSONRespuesta[i].Identificacion + '</td>' +
                         '<td nowrap data-column-id="studentPhoneNumber">' + JSONRespuesta[i].Telefono + '</td>' +
