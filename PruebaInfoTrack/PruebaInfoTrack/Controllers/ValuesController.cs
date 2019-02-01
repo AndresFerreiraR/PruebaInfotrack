@@ -40,5 +40,10 @@ namespace PruebaInfoTrack.Controllers
         public void Delete(int id)
         {
         }
+
+        public ActionResult Index()
+        {
+            return View("~/Views/Values/Index.cshtml");
+        }
     }
 }
