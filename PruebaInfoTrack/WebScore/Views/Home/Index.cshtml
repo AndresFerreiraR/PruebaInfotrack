@@ -1,20 +1,21 @@
 ﻿@using (Html.BeginForm())
 {
     <div>
-        <form></form>
-        <table id="DataTable">
-            <tr>
-                <th>Nombres</th>
-                <th>Apellidos</th>
-                <th>Identificación</th>
-                <th>Telefono</th>
-                <th>Correo</th>
-            </tr>
-            <tr>
-                <td></td>
-            </tr>
+        <table class="table">
+            <thead class="ScrollHead">
+                <tr>
+                    <th data-column-id="Check" name="select"></th>
+                    <th data-column-id="studentName">Nombres</th>
+                    <th data-column-id="studentSurname">Apellidos</th>
+                    <th data-column-id="studentNIT">Identificación</th>
+                    <th data-column-id="studentPhoneNumber">Telefono</th>
+                    <th data-column-id="studentEmail">Correo</th>
+                </tr>
+            </thead>
+            <tbody id="Students_List"></tbody>
         </table>
     </div>
+
 
     @section Scripts
         {
