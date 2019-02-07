@@ -25,7 +25,7 @@ namespace PruebaInfoTrack.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Data Source=COBODES789\\SQLEXPRESS;initial catalog=INFOTRACK;user id=sa;password=PruebaTecnica*2019;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+                optionsBuilder.UseSqlServer("Data Source=FERREIRA\\ACFERREIRADB;initial catalog=INFOTRACK;user id=sa;password=PruebaTecnica*2019;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
             }
         }
 

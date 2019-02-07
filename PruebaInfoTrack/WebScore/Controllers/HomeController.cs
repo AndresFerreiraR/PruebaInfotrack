@@ -10,16 +10,15 @@ namespace WebScore.Controllers
 {
     public class HomeController : Controller
     {
-        PruebaInfoTrack.Controllers.EstudianteController esrudiantes = new PruebaInfoTrack.Controllers.EstudianteController();
+        //PruebaInfoTrack.Controllers.EstudianteController esrudiantes = new PruebaInfoTrack.Controllers.EstudianteController();
         public IActionResult Index()
         {
             return View();
         }
-
-        public IActionResult getEstudents()
-        {
-            var result = esrudiantes.GetAllStudents();
-            return Json(result);
-        }
+        //public IActionResult getEstudents()
+        //{
+        //    var result = esrudiantes.GetAllStudents();
+        //    return Json(result);
+        //}
     }
 }

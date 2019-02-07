@@ -22,9 +22,9 @@
     "sourceMap": false
   },
   {
-    "outputFileName": "wwwroot/js/HomeScripts.min.js",
+    "outputFileName": "wwwroot/js/Scripts/StudentScripts.min.js",
     "inputFiles": [
-      "~/Scripts/HomeScripts.js"
+      "~/Scripts/StudentScripts.js"
     ],
     // Optionally specify minification options
     "minify": {

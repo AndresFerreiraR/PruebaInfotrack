@@ -12,3 +12,17 @@ C:\Users\aferreira\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj
 C:\Users\aferreira\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.csproj.CopyComplete
 C:\Users\aferreira\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.dll
 C:\Users\aferreira\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.pdb
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\bin\Debug\netcoreapp2.0\WebScore.deps.json
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\bin\Debug\netcoreapp2.0\WebScore.runtimeconfig.json
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\bin\Debug\netcoreapp2.0\WebScore.runtimeconfig.dev.json
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\bin\Debug\netcoreapp2.0\WebScore.dll
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\bin\Debug\netcoreapp2.0\WebScore.pdb
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\bin\Debug\netcoreapp2.0\PruebaInfoTrack.dll
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\bin\Debug\netcoreapp2.0\PruebaInfoTrack.pdb
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.csprojAssemblyReference.cache
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.csproj.CoreCompileInputs.cache
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.AssemblyInfoInputs.cache
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.AssemblyInfo.cs
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.csproj.CopyComplete
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.dll
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\WebScore\obj\Debug\netcoreapp2.0\WebScore.pdb

@@ -1,8 +1,8 @@
 ﻿$(document).ready(function () {
-    HomeScripts.GetData();
+    StudentScripts.GetData();
 });
 
-class HomeScripts {
+class StudentScripts {
 
     static GetData() {
         var Students_List = '';

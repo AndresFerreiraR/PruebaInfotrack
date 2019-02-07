@@ -42,3 +42,14 @@ C:\Users\aferreira\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTr
 C:\Users\aferreira\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.AssemblyInfo.cs
 C:\Users\aferreira\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.dll
 C:\Users\aferreira\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.pdb
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\bin\Debug\netcoreapp2.0\PruebaInfoTrack.deps.json
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\bin\Debug\netcoreapp2.0\PruebaInfoTrack.runtimeconfig.json
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\bin\Debug\netcoreapp2.0\PruebaInfoTrack.runtimeconfig.dev.json
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\bin\Debug\netcoreapp2.0\PruebaInfoTrack.dll
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\bin\Debug\netcoreapp2.0\PruebaInfoTrack.pdb
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.csprojAssemblyReference.cache
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.csproj.CoreCompileInputs.cache
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.AssemblyInfoInputs.cache
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.AssemblyInfo.cs
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.dll
+C:\Users\acfer\Documents\GitHub\PruebaInfotrack\PruebaInfoTrack\PruebaInfoTrack\obj\Debug\netcoreapp2.0\PruebaInfoTrack.pdb
